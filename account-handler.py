@@ -4,9 +4,9 @@ def calculate_circle_area(radius):
     return math.pi * radius * 2
 
 def main():
-    print("Welcome  the  Area Calculator!")
+    print("Welcome  the  Calculator!")
     try:
-        radius = float(input("Enter the radius of  : "))
+        radius = float(input("Enter the pashbesh of  : "))
         if radius < 0:
             print(" cannot be negative.")
         else:
