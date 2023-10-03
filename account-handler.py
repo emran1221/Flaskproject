@@ -1,6 +1,6 @@
 import math
 
-print("ronahi osama")
+print("ronahiosama")
 
 def calculate_circle_area(radius):
     return math.pi * radius * 2
